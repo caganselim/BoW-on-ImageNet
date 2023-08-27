@@ -1,6 +1,6 @@
 # Bag of Visual Words Image Classifier
 
-This Git repository contains an image classifier that utilizes the Bag of Visual Words (BoVW) approach with three different classification algorithms implemented from scratch: Naive Bayes, Logistic Regression, and a Fully Connected Neural Network.
+This Git repository contains three image classifiers that utilizes the Bag of Visual Words (BoVW) approach with three different classification algorithms implemented from scratch: Naive Bayes, Logistic Regression, and a Fully Connected Neural Network.
 
 ## Table of Contents
 
